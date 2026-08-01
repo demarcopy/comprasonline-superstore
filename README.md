@@ -11,6 +11,8 @@ El objetivo es analizar las ventas de la empresa ficticia **ComprasOnline.com** 
 - `notebooks/`: cuadernos Jupyter con el análisis exploratorio.
 - `docs/`: documentación del dataset, exploración y decisiones visuales.
 - `outputs/charts/`: gráficos exportados.
+- `outputs/report/`: propuesta y materiales para el informe final.
+- `outputs/presentation/`: propuesta y materiales para la presentación.
 
 ## Análisis iniciado
 
@@ -24,6 +26,13 @@ Gráficos generados:
 
 - `outputs/charts/estado_ventas_evolucion_top12.png`
 - `outputs/charts/estado_ventas_2017_rentabilidad.png`
+
+## Entregables en construcción
+
+- Informe: `outputs/report/propuesta_informe.md`
+- Presentación: `outputs/presentation/propuesta_presentacion.md`
+
+Ambos archivos incluyen criterios de inclusión y la propuesta actual desarrollada hasta ahora.
 
 ## Cómo continuar
 
